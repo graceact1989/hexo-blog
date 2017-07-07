@@ -37,7 +37,7 @@ after_script:
 
 branches:
   only:
-    - blog-source
+    - source
 env:
  global:
    - GH_REF: github.com/graceact1989/graceact1989.github.io.git
